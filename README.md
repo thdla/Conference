@@ -1,4 +1,4 @@
-# Conference Schedules - 04-02-2020
+# Conference Schedules - 04-02-2020 - HS 2
 
 ## 10:00 - 12:00 
 * Predicting the usage of station based bike sharing
